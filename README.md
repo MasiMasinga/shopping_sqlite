@@ -1,4 +1,4 @@
-# shopping
+# shopping_sqlite
 
 A new Flutter project.
 
